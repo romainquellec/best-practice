@@ -114,6 +114,4 @@ Make sure merged feature branches are deleted, keep a tidy work environment.
 Do not keep deprecated code in HEAD: delete it, you can always go back and find it.
 
 # Process
-
-
-
+tl;dr : Use ATDD
