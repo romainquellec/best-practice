@@ -1,4 +1,3 @@
-
 # best-practices
 
 Pragmatic recommendations based on clean coding principles for teams working on TypeScript/JavaScript web application.
